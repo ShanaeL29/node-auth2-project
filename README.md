@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Use `Node.js`, `Express` and `Knex` to build an API with authentication and authorization using JSON Web Tokens.
+Use `Node.js`, `Express` and `Knex` to build an API with authentication and authorization using JSON Web Tokens
 
 ## Instructions
 
